@@ -1,21 +1,58 @@
+<!-- Dark Mode Styled README -->
+
+<h1 align="center">🖤 Study Planner + Learning Assistant Agent</h1>
+<h3 align="center">Kaggle Agents Intensive — Concierge Track (Capstone Project)</h3>
+
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-Multi--Agent-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0D1117&color=5CE1E6" />
-  <img src="https://img.shields.io/badge/Kaggle-5--Day%20Challenge-0D1117?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117&color=1F6FEB" />
-  <img src="https://img.shields.io/badge/Python-3.10-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Gemini-ADK-0D1117?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117&color=EA4335" />
-  <img src="https://img.shields.io/badge/Status-Completed-0D1117?style=for-the-badge&logo=verified&logoColor=white&labelColor=0D1117&color=238636" />
+A lightweight, intelligent agent that plans your study schedule, tracks progress, and answers learning queries — all powered by Kaggle’s Agents framework.
 </p>
 
-# Study Planner + Learning Assistant Agent
+---
 
-Concierge Track — Kaggle Agents Intensive Capstone
+## 📁 Project Structure
 
-This repository contains the demo notebook, source code, assets (thumbnail & architecture diagram), and writeup for the Study Planner project.
+notebooks/
+├── 01_build_agent.ipynb
+└── 02_tests.ipynb
+src/
+├── orchestrator/
+├── planner/
+├── qa/
+├── tracker/
+└── memory_bank/
+assets/
+├── thumbnail_560x280.png
+└── architecture.png
+writeup.md
 
-Files:
-- notebooks/01_build_agent.ipynb
-- notebooks/02_tests.ipynb
-- src/* (orchestrator, planner, qa, tracker, memory_bank)
-- assets/thumbnail_560x280.png
-- assets/architecture.png
-- writeup.md
+---
+
+## ⚡ Summary
+
+- 📘 **Generates personalized study plans**
+- 🧠 **Responds to learning queries**
+- 📊 **Tracks progress & maintains memory**
+- 🔗 **Built entirely using Kaggle Agents + Python**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Kaggle Agents API**
+- **LangChain-style modular architecture**
+- **Notebook-first development workflow**
+
+---
+
+## 🖤 Minimal, clean & dark-theme friendly.
+
+---
+
+If you want, I can also create:
+✨ A banner header  
+🔥 A premium dark thumbnail  
+📦 A “Getting Started” section  
+Just tell me!
